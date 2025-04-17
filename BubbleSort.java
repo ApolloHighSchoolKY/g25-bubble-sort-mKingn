@@ -2,8 +2,8 @@ public class BubbleSort
 {
 
 	public static void main(String[] args)
-  {
-    int[] myNums = {12, 15, 0, 44, 13, 1, 2};
+	{
+		int[] myNums = {12, 15, 0, 44, 13, 1, 2};
 		int passes;
 		int comparisons;
 		int tempNum;
@@ -19,5 +19,5 @@ public class BubbleSort
 
 
 
-  }
+	}
 }
